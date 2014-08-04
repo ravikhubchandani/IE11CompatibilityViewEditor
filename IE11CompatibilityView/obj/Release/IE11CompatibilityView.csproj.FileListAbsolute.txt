@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\bin\Release\IE11CompatibilityView.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\bin\Release\IE11CompatibilityView.exe
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\bin\Release\IE11CompatibilityView.pdb
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\obj\Release\IE11CompatibilityView.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\obj\Release\IE11CompatibilityView.exe
+C:\Users\Ravi\Documents\Visual Studio 2012\Projects\IE11CompatibilityView\IE11CompatibilityView\obj\Release\IE11CompatibilityView.pdb
